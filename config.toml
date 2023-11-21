@@ -1,5 +1,4 @@
 # Site settings
-# This is a sample comment
 baseURL = "/"
 languageCode = "en-us"
 title = "The DevOps Toolkit Series"
